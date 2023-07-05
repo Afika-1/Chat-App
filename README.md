@@ -1,6 +1,7 @@
 ### `npm start`
 
 Runs the app in the development mode.\
+first go to your server and client folder 'cd server' then run the server, 'cd client' then run the application
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm test`
 
